@@ -32,7 +32,7 @@ def quitar():
                 print("Error: introduce S o N")
         # Solo si la respuesta es igual a "s" vamos a borrar la tarea
         if decición.lower() == "s":
-            df.drop(fila)
+            df = df.drop(fila)
             df.to_csv("datos.csv", index=False)
             print(df)
         else:
