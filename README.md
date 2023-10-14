@@ -4,6 +4,8 @@
 
 Este es un gestor de tareas que guarda las tareas en un archivo csv para que puedas a organizarte de mejor manera.
 
+***
+
 ### Tecnologias usadas para crear el programa
 * Lenguaje de programación Python.
 * Libreria Pandas.
@@ -20,7 +22,7 @@ ___
 Para descargar Python en windows debes ir al la [web oficial](https://www.python.org/downloads/) de python y descargar un archivo ejecutable.
 
 
-![Descargar python](img\descargar_python.png)
+![Descargar python](img/descargar_python.png)
 
 Una vez que descargues el archivo .exe deberas ejecutarlo e instalar python.
 
@@ -85,14 +87,14 @@ Luego ejecute el siguiente comando en una terminal `pip install pandas` ahora de
 ***
 ## Instrucciones de uso
 Para agragar una tarea escriba 1 en la siguiente sección
-![Imagen](img\\Como_agregar_tareas.png)
+![Imagen](img/Como_agregar_tareas.png)
 Tambien ahi se le explica como eliminar y completar tareas.
 
 El programa es muy intuitivo aunque no tenga interfaz grafica.
 ***
 ## Imagenes de como se ve el programa
-![foto del programa](img\\agregar_tareas.png)
+![foto del programa](img/agregar_tareas.png)
 ***
-![foto del programa](img\\quitar_tareas.png)
+![foto del programa](img/quitar_tareas.png)
 ***
-![foto del programa](img\\Como_se_ve_el_csv.png)
+![foto del programa](img/Como_se_ve_el_csv.png)
