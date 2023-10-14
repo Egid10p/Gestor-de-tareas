@@ -2,7 +2,7 @@
 ***
 ## Descripción
 
-Este es un gestor de tareas que guarda las tareas en un archivo csv para que puedas a organizarte de mejor manera.
+Este es un gestor de tareas que guarda las tareas en un archivo csv para que puedas organizarte de mejor manera.
 
 ***
 
